@@ -138,6 +138,9 @@ ul {
     margin: 12.5px 0;
     z-index: 100;
 }
+.abc {
+    margin: 30px 0 50px 0;
+}
 
 /* footer */
 
@@ -231,5 +234,9 @@ ul {
         padding-left: 35%;
         padding-right: 35%;
 
+    }
+    .abc {
+        padding-left: 20%;
+        padding-right: 20%;
     }
 }
