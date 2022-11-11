@@ -238,13 +238,6 @@ h6 {
     }
 }
 
-.ballon {
-    -webkit-animation-name: scaleDraw;
-    -webkit-animation-timing-function: ease-in-out;
-    -webkit-animation-iteration-count: infinite;
-    -webkit-animation-duration: 1.5s;
-}
-
 .picc img {
     transform: scale(1, 1);
     transition: all 0.3s ease-out;
